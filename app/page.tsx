@@ -6,7 +6,7 @@ export default function Home() {
   return (<><h1 className="text-3xl my-2">Robert Renn</h1>
     <p>I am experienced web developer using the following...</p>
     <ul className="m-6 font-bold">
-      <li>- HTML, CSS, JavaScript</li>
+      <li>- HTML, CSS, and JavaScript</li>
       <li>- React</li>
       <li>- Implementing React through the Next.js framework</li>
     </ul>

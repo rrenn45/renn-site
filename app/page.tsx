@@ -4,7 +4,7 @@ import Link from "next/link"
 
 export default function Home() {
   return (<><h1 className="text-3xl my-2">Robert Renn</h1>
-    <p>Like most web developers, I'm experienced using the following...</p>
+    <p>Like most web developers, I am experienced using the following...</p>
     <ul className="m-6 font-bold">
       <li>- HTML, CSS, JavaScript</li>
       <li>- React</li>
